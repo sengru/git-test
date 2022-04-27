@@ -5,8 +5,5 @@ public class Test {
         System.out.println("hello");
         System.out.println("新增一条");
         System.out.println("再新增一条");
-        System.out.println("再次新增一条");
-        System.out.println("再新增一条");
-        System.out.println("再新增一条");
     }
 }
